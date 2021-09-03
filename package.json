@@ -1,9 +1,12 @@
 {
-  "name": "js",
+  "name": "js_begginers_project",
   "version": "0.0.0",
   "author": "Dawson Richey",
-  "private": true,
+  "private": false,
   "dependencies": {
-    
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "^5.1.0",
+    "esnext": "^3.3.1",
+    "jquery": "^3.6.0"
   }
 }
