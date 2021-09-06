@@ -24,9 +24,9 @@ bootstrapDiv.innerHTML = `<h2>Bootstrap Section</h2>`;
 const jQueryDiv = document.getElementById('jQuery');
 jQueryDiv.innerHTML = `<h3>jQuery Section</h3>`;
 
-// Section for writing jQuery code
-const jQueryDiv = document.getElementById('person');
-jQueryDiv.innerHTML = `
+// Section for writing person code
+const personDiv = document.getElementById('person');
+personDiv.innerHTML = `
     <p>${person.firstName}</p
     <p>${person.lastName}</p>
     <p>${person.age}</p>
